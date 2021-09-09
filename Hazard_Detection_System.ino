@@ -92,7 +92,6 @@ const int buzzer = 8;
 LiquidCrystal_I2C lcd(0x27,16,2);
 
 #define trigPin 13
-
 #define echoPin 12 
 
 void setup() {
